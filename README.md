@@ -6,6 +6,9 @@ This is a beautiful React emojipedia that gives meanings of emojis. To add more 
 
 There is a live project on code sandbox of this emojipedia check it out here: https://codesandbox.io/s/react-emojipedia-o5h40
 
+# Preview
+
+
 
 
 
