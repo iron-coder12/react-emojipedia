@@ -10,36 +10,6 @@ There is a live project on code sandbox of this emojipedia check it out here: ht
 
 <img src="https://github.com/iron-coder12/react-emojipedia/blob/master/Capture.PNG?raw=true">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+Copyright © Shaurya Rathi 2021
+</p>
