@@ -8,6 +8,7 @@ There is a live project on code sandbox of this emojipedia check it out here: ht
 
 # Preview
 
+<img src="https://github.com/iron-coder12/react-emojipedia/blob/master/Capture.PNG?raw=true">
 
 
 
